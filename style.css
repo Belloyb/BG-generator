@@ -1,0 +1,33 @@
+body {
+    font-style: oblique;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, blue , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    outline: auto;
+    outline-color: rgba(116, 129, 8, 1);
+    font-style: initial;
+    text-shadow: 10rem;
+    text-decoration: double;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Time roman', sans-serif;
+    color: rgba(0,0,0,.5);
+    font-style: oblique;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
